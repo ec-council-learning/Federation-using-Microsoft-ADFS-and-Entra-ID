@@ -1,4 +1,4 @@
-# Identity-Federation-using-Microsoft-ADFS-and-Azure-AD
+# Federation using Microsoft ADFS and Entra ID
 Identity Federation using Microsoft ADFS and Azure AD, by EC-Council
 
 # For the video - Installing a Sample Claim Aware Application
